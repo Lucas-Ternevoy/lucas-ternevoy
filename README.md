@@ -38,7 +38,7 @@ Tenho como objetivo construir uma carreira na área de QA, contribuindo para a e
 ### 📫 Vamos nos conectar?
 
 * LinkedIn: [www.linkedin.com/in/lucas-silva-qa](http://www.linkedin.com/in/lucas-silva-qa)
-* GitHub: github.com/seu-usuario
+* GitHub: /github.com/Lucas-Ternevoy/lucas-ternevoy/blob/main/README.md
 
 <!--
 **Lucas-Ternevoy/lucas-ternevoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
